@@ -1,0 +1,31 @@
+.array-container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 500px;
+    margin-top: 20px;
+    padding: 0 10px;
+}
+
+.bar {
+    background-color: blue;
+    margin: 0 1px;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+button, .num-bars-input {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.num-bars-input {
+    width: 60px;
+    text-align: center;
+}
