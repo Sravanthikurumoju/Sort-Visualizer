@@ -269,7 +269,7 @@ const AlgorithmVisualizer = () => {
                             display: "flex",
                             alignItems: "flex-end",
                             justifyContent: "center",
-                            color: "blue",
+                            color: "white",
                             fontSize: "12px",
                         }}
                     >
